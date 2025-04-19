@@ -1,2 +1,3 @@
 # pavan
-to ;earn git and github
+to Learn git and github
+Author: Pavan
